@@ -1,5 +1,5 @@
 {
-  "name": "divyansh-cognitive-load-analyzer",
+  "name": "cognitive-load-analyzer",
   "version": "1.0.2",
   "description": "CLI tool to analyze JavaScript code complexity and estimate cognitive load",
   "type": "module",
