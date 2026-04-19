@@ -15,10 +15,10 @@ CLI tool to analyze JavaScript code complexity and estimate how difficult code i
 ## Installation
 
 Run without installing:
-npx divyansh-cognitive-load-analyzer
+npx cognitive-load-analyzer
 
 Install globally:
-npm install -g divyansh-cognitive-load-analyzer
+npm install -g cognitive-load-analyzer
 
 Run:
 cla
@@ -71,6 +71,10 @@ The tool scans JavaScript files, analyzes structure using AST parsing, and calcu
 * Support for multiple languages
 * VS Code extension
 
+## Package
+
+https://www.npmjs.com/package/cognitive-load-analyzer
+
 ## Author
 
-Divyansh
+Divyansh Kaushik
